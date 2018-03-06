@@ -49,4 +49,4 @@ rm(dfDataMeanAndSD)
 dfTidyData <- arrange(dfTidyData, Subject, Activity)
 
 # Write the result to a file
-write.table(dfTidyData, file = "tidy_data_set.txt")
+write.table(dfTidyData, file = "tidy_data_set.txt", row.names = FALSE)
