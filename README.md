@@ -5,8 +5,6 @@ date: "2018 M03 7"
 output: html_document
 ---
 
-## R Markdown
-
 ## Script "activity_labels.txt" work:
 1. Data downloaded from
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
