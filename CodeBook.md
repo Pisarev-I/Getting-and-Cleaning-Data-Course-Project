@@ -5,8 +5,6 @@ date: "2018 M03 7"
 output: html_document
 ---
 
-## R Markdown
-
 ## The code book describes the variables, the data, and any transformations or work that I performed to clean up the data
 
 # Variables:
